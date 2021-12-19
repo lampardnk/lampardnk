@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lampardnk
-- 👀 I’m interested in CTFs and CyberSec in general
-- 🌱 I’m currently learning crypto and pwn + some web
+- 👀 I’m interested in CTFs
+- 🌱 I’m currently training for NOI / CP in general
 - 💞️ I’m looking to collaborate on team CTFs
 - 📫 How to reach me Discord: lampardNK#2683
 
