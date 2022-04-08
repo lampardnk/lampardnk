@@ -11,12 +11,13 @@
 </div>
 
 <h1 align="center">
-  please contact the police life is threatening me 
+  Logging out of existence.env ...
 </h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/28803484/162472982-45c9615e-40f2-49d2-81d4-a134eafd7a5c.gif"/>
+  <img src="https://user-images.githubusercontent.com/28803484/162474210-df149429-7556-4245-9848-cfe032bd40af.gif"/>
 </div>
+
 
 ---
 
