@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-  Logging out of existence.env ...
+  !alive
 </h1>
 
 <div align="center">
